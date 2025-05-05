@@ -2,8 +2,6 @@
 
 A simple cricket game built using **C** and the **iGraphics** library, inspired by the classic Nokia mobile cricket game. In this game, players focus solely on **batting**, aiming to score as many runs as possible by hitting the ball with precise timing.
 
-📦 GitHub Repo: [github.com/kMuhtasim/Simple-Cricket-Game](https://github.com/kMuhtasim/Simple-Cricket-Game)
-
 > **Project Duration**: Completed in the first few months of 2024
 
 ---
